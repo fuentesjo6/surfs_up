@@ -8,4 +8,6 @@ With the provided data I was able to extract temperatures for the months of June
   - The mean average for June was higher than that of December by almost 5 degrees.
   - The highest temeperatre recorded for both months were very similiar as June's max temperature was 85 degrees and December's was 83.
   - There was a drastic difference when it came to the lowest temperature recorded for both months as June's was 64 degrees and December's was 56 degrees. 
-![]()
+ 
+![](Dec_Temps_stats.png)
+![](June_Temps_stats.png)
